@@ -2,5 +2,5 @@
 *Utilizes Filebrowser (Quantum) and adds easy coolify support.*
 
 ### Links
-Wiki: [**here**](https://github.com/PlasHost/filebrowser-coolify/wiki)
+Wiki: [**here**](https://github.com/PlasHost/filebrowser-coolify/wiki)<br></br>
 Installation Specific Wiki: [**https://github.com/PlasHost/filebrowser-coolify/wiki/Installation**](https://github.com/PlasHost/filebrowser-coolify/wiki/Installation)
