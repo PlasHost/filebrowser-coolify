@@ -3,4 +3,4 @@
 
 ### Links
 Wiki: [**here**](https://github.com/PlasHost/filebrowser-coolify/wiki)<br></br>
-Installation Specific Wiki: [**https://github.com/PlasHost/filebrowser-coolify/wiki/Installation**](https://github.com/PlasHost/filebrowser-coolify/wiki/Installation)
+Installation Specific Wiki: [**here**](https://github.com/PlasHost/filebrowser-coolify/wiki/Installation)
