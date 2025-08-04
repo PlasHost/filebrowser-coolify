@@ -23,13 +23,4 @@ services:
         target: /home/filebrowser/data/config.yaml
         isDirectory: false
         content: "server:\n  sources:\n    - path: /folder # corresponds to the folder mounted above in docker-compose\n      config:\n        defaultEnabled: true # add source for all users by default \nauth:\n  adminUsername: admin"
-    healthcheck:
-      test:
-        - CMD
-        - curl
-        - '-f'
-        - 'http://localhost'
-      interval: 2s
-      timeout: 10s
-      retries: 15
 
